@@ -8,6 +8,7 @@ function Desktop(config) {
    throw "nodeos-desktop: config port is not a number";
    
   var yunitto = new Yunitto({httpport: config.port});
+  yunitto.useAllScreens();
 }
 
 module.exports = Desktop;
