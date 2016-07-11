@@ -1,0 +1,26 @@
+{
+  "name": "nodeos-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tross-software-and-tech/nodeos-desktop.git"
+  },
+  "keywords": [
+    "NodeOS",
+    "nodeos",
+    "os",
+    "node",
+    "desktop"
+  ],
+  "author": "Tross Software and Tech",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tross-software-and-tech/nodeos-desktop/issues"
+  },
+  "homepage": "https://github.com/tross-software-and-tech/nodeos-desktop#readme"
+}
