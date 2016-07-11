@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/tross-software-and-tech/nodeos-desktop#readme",
   "dependencies": {
-    "blessed-contrib": "^3.5.5",
-    "yunitto": "^0.7.12"
+    "ryutai": "^1.0.0"
   }
 }
