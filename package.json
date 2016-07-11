@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/tross-software-and-tech/nodeos-desktop/issues"
   },
-  "homepage": "https://github.com/tross-software-and-tech/nodeos-desktop#readme"
+  "homepage": "https://github.com/tross-software-and-tech/nodeos-desktop#readme",
+  "dependencies": {
+    "blessed-contrib": "^3.5.5",
+    "yunitto": "^0.7.12"
+  }
 }
