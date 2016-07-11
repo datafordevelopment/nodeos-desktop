@@ -1,1 +1,1 @@
-# nodeos-desktop
+# NodeOS Desktop
